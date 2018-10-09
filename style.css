@@ -1656,6 +1656,7 @@ div[data-dimension] {
     float: left;
     display: inline;
     width: 100%;
+    height: 250px;
 }
 
     .gallery_area a {
