@@ -646,6 +646,10 @@ div[data-dimension] {
     width: 100%;
 }
 
+.singCourse_content ul {
+    font-size: 15px;
+}
+
 .singCourse_imgarea {
     float: left;
     overflow: hidden;
